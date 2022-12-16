@@ -1,0 +1,5 @@
+[user]
+	name = typhona
+	email = typhona@gmail.com
+[core]
+	editor = nvim.appimage
